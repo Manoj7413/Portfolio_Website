@@ -64463,31 +64463,31 @@ s=A.bk(a,f,d).w
 r=t.F
 q=A.kB(A.a([A.d_("Hi ! I am ,",A.c4(f,f,new A.z(4282966508),f,f,f,f,f,f,f,f,c/3,f,f,B.a8,f,f,!0,f,f,f,f,f,f,f,f),f),A.bP(f,5,f),A.d_("Manoj Kumhar",A.c4(f,f,B.i,f,f,f,f,f,f,f,f,c,f,f,B.a8,f,f,!0,f,f,f,f,f,f,f,f),f),A.bP(f,5,f),A.d_("I Build Android Application",A.c4(f,f,B.xU,f,f,f,f,f,f,f,f,c*0.5,f,f,B.a8,f,f,!0,f,f,f,f,f,f,f,f),f)],r),B.bT,B.hs)
 p=A.bk(a,f,d).w
-o=A.Na(B.xO)
+o=A.Na(B.i)
 n=A.kv(50)
 m=t.sq
-l=A.a([new A.dD(3,B.b2,B.dH,new A.o(0.5,0.5),10)],m)
+l=A.a([new A.dD(5,B.b2,B.dH,new A.o(0.5,0.5),10)],m)
 k=Math.max(A.bk(a,f,d).w.a.a*0.03,40)
-j=Math.max(A.bk(a,f,d).w.a.a*0.03,40)
-e=A.BI(A.r9(f,A.cx(f,new A.ne(A.alI(f,f,new A.dC("assets/facebook.png",f,f)),k,j,B.aA,f),f,new A.cS(f,f,o,n,l,f,B.a4),f,f,new A.aM(5,5,5,5),f),B.aj,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.a1t(b),f,f,f),B.dF,new A.a1u(e,this),new A.a1v(e,this),f)
-o=A.bP(f,20,f)
-n=A.Na(B.i)
-l=A.kv(50)
-k=A.a([new A.dD(5,B.b2,B.dH,new A.o(0.5,0.5),10)],m)
-j=Math.max(A.bk(a,f,d).w.a.a*0.03,40)
-k=A.r9(f,A.cx(f,A.i1(B.aA,Math.max(A.bk(a,f,d).w.a.a*0.03,40),new A.dC("assets/github.png",f,f),j),f,new A.cS(f,f,n,l,k,f,B.a4),f,f,new A.aM(5,5,5,5),f),B.aj,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.a1w(b),f,f,f)
+e=A.BI(A.r9(f,A.cx(f,A.i1(B.aA,Math.max(A.bk(a,f,d).w.a.a*0.03,40),new A.dC("assets/github.png",f,f),k),f,new A.cS(f,f,o,n,l,f,B.a4),f,f,new A.aM(5,5,5,5),f),B.aj,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.a1t(b),f,f,f),B.dF,new A.a1u(e,this),new A.a1v(e,this),f)
 l=A.bP(f,20,f)
+n=A.Na(B.i)
+o=A.kv(50)
+k=A.a([new A.dD(3,B.b2,B.dH,new A.o(0.5,0.5),10)],m)
+j=Math.max(A.bk(a,f,d).w.a.a*0.03,40)
+k=A.r9(f,A.cx(f,A.i1(B.aA,Math.max(A.bk(a,f,d).w.a.a*0.03,40),new A.dC("assets/linkedin.png",f,f),j),f,new A.cS(f,f,n,o,k,f,B.a4),f,f,new A.aM(5,5,5,5),f),B.aj,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.a1w(b),f,f,f)
+o=A.bP(f,20,f)
 n=A.Na(B.i)
 j=A.kv(50)
 i=A.a([new A.dD(3,B.b2,B.dH,new A.o(0.5,0.5),10)],m)
 h=Math.max(A.bk(a,f,d).w.a.a*0.03,40)
 i=A.r9(f,A.cx(f,A.i1(B.aA,Math.max(A.bk(a,f,d).w.a.a*0.03,40),new A.dC("assets/hackerrank.png",f,f),h),f,new A.cS(f,f,n,j,i,f,B.a4),f,f,new A.aM(5,5,5,5),f),B.aj,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.a1x(b),f,f,f)
 j=A.bP(f,20,f)
-n=A.Na(B.i)
+n=A.Na(B.xO)
 h=A.kv(50)
 m=A.a([new A.dD(3,B.b2,B.dH,new A.o(0.5,0.5),10)],m)
 g=Math.max(A.bk(a,f,d).w.a.a*0.03,40)
-return A.cx(f,A.a7j(A.a([q,A.cx(f,A.kB(A.a([e,o,k,l,i,j,A.r9(f,A.cx(f,A.i1(B.aA,Math.max(A.bk(a,f,d).w.a.a*0.03,40),new A.dC("assets/linkedin.png",f,f),g),f,new A.cS(f,f,n,h,m,f,B.a4),f,f,new A.aM(5,5,5,5),f),B.aj,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.a1y(b),f,f,f)],r),B.dP,B.hs),f,f,f,f,f,p.a.a*0.12)],r),B.ht,B.eo),f,f,s.a.b,f,new A.aM(30,100,30,0),f)}}
+d=Math.max(A.bk(a,f,d).w.a.a*0.03,40)
+return A.cx(f,A.a7j(A.a([q,A.cx(f,A.kB(A.a([e,l,k,o,i,j,A.r9(f,A.cx(f,new A.ne(A.alI(f,f,new A.dC("assets/instagram.png",f,f)),g,d,B.aA,f),f,new A.cS(f,f,n,h,m,f,B.a4),f,f,new A.aM(5,5,5,5),f),B.aj,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.a1y(b),f,f,f)],r),B.dP,B.hs),f,f,f,f,f,p.a.a*0.12)],r),B.ht,B.eo),f,f,s.a.b,f,new A.aM(30,100,30,0),f)}}
 A.a1u.prototype={
 $1(a){return this.b.aB(new A.a1s(this.a))},
 $S:78}
@@ -64501,16 +64501,16 @@ A.a1r.prototype={
 $0(){return this.a.a=!1},
 $S:0}
 A.a1t.prototype={
-$0(){this.a.fT("https://www.facebook.com/profile.php?id=100013215377464")},
-$S:0}
-A.a1w.prototype={
 $0(){this.a.fT("https://github.com/Manoj7413")},
 $S:0}
+A.a1w.prototype={
+$0(){this.a.fT(u.R)},
+$S:0}
 A.a1x.prototype={
-$0(){this.a.fT("https://www.hackerrank.com/jadhavakshay0701")},
+$0(){this.a.fT("https://codeforces.com/profile/Kumharmanoj")},
 $S:0}
 A.a1y.prototype={
-$0(){this.a.fT(u.R)},
+$0(){this.a.fT("https://www.instagram.com/mnuu1800/profilecard/?igsh=Z2g0amdlMmxubmNz")},
 $S:0}
 A.nH.prototype={
 ak(){return new A.IT(B.l)}}
